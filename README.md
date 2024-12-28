@@ -25,5 +25,5 @@ This Portfolio website built using HTML5, CSS3, JavaScript.
 
 <h2>📬 Contact</h2>
 
-Feel free to reach me through the below handles if you'd like to contact me.
+Feel free to reach me through the below handles if you'd like to contact me.</br></br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_prashant82) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i-am-patil-prashant) 
