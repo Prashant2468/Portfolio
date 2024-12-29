@@ -1019,6 +1019,7 @@ li {
   height: 100%;
   width: 100%;
   border-radius: 10px;
+  background-attachment: fixed;
 }
 .proContainer .proBox .pro_img .swiper {
   height: 100%;
@@ -1068,13 +1069,13 @@ li {
   font-size: 22px;
   color: white;
   font-weight: 500;
-  margin-top: 10px;
+  margin-top: 15px;
 }
 .proContainer .proBox .data p {
   font-size: 0.8rem;
   color: rgba(255, 255, 255, 0.605);
   font-weight: 500;
-  margin-top: 4px;
+  margin-top: 10px;
   letter-spacing: 0.5px;
 }
 
