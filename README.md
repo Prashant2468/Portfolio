@@ -18,10 +18,10 @@ This Portfolio website built using HTML5, CSS3, JavaScript.
 * Font Awesome 
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://github.com/Prashant2468/Portfolio/blob/master/assest/images/portfolioImg.webp)
-![ss](https://github.com/Prashant2468/Portfolio/blob/master/assest/images/port1.png)
-![ss](https://github.com/Prashant2468/Portfolio/blob/master/assest/images/port2.png)
-![ss](https://github.com/Prashant2468/Portfolio/blob/master/assest/images/port3.png)
+![mockup720](https://github.com/Prashant2468/Portfolio/blob/master/assest/images/portfolio1.webp)
+![ss](https://github.com/Prashant2468/Portfolio/blob/master/assest/images/portfolio2.png)
+![ss](https://github.com/Prashant2468/Portfolio/blob/master/assest/images/portfolio3.png)
+![ss](https://github.com/Prashant2468/Portfolio/blob/master/assest/images/portfolio4.png)
 
 <h2>📬 Contact</h2>
 
